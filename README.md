@@ -1,1 +1,1 @@
-# logger-project
+echo "Logger Project" > README.md
